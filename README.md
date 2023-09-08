@@ -1,1 +1,2 @@
 # Heart-Disease-Predicition
+Welcome to the Heart Disease Prediction project! In this project, I developed and implemented a logistic regression model using the scikit-learn library to predict the occurrence of heart disease. The model achieved impressive accuracy, boasting 87.5% on the training set and 83.33% on the test set. This project is not just about accurate predictions but also about gaining valuable insights from the heart disease dataset through exploratory data analysis (EDA).
